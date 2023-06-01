@@ -1,0 +1,13 @@
+.Start {
+    width: 800px;
+    /* margin: 0 auto; */
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    margin-left: calc(50% - 400px);
+}
+.Start span {
+    font-weight: 1000;
+    color: hsl(41, 84%, 46%);
+}

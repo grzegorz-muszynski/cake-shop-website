@@ -1,0 +1,15 @@
+.Offer {
+    width: 800px;
+    margin: 0 auto;
+}
+.Offer h2 {
+    text-align: center;
+}
+.Offer ul li{
+    /* list-style-type: none; */
+    /* padding: 0 0 0 4px; */
+    padding-top: 6px;
+}
+.Offer p {
+    text-align: justify;
+}

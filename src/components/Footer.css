@@ -1,0 +1,20 @@
+.Footer {
+    background-color: hsl(41, 84%, 46%);
+    height: 24px;
+    line-height: 24px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    font-family: calibri;
+    font-size: 15px;
+}
+.Footer::before {
+    content: 'Copyright © 2023 Macarro Urszula Gorzoń';
+    padding-left: 6px;
+}
+.Footer::after {
+    content: 'Realizacja ARDEO Grzegorz Muszyński';
+    float: right;
+    padding-right: 6px;
+}

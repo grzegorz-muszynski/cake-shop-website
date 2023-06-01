@@ -1,0 +1,45 @@
+.Prices {
+    width: 800px;
+    margin: 0 auto;
+}
+.Prices table {
+    margin: 0 auto;
+    width: 570px;
+    margin-top: 5px;
+}
+.Prices table tr:nth-child(even) {
+    background-color: hsl(285, 6%, 24%);
+    border-color: hsl(285, 6%, 21%);
+}
+.Prices td[colspan="3"] {
+    text-align: center;
+    color: hsl(41, 84%, 46%);
+    padding-left: 25px;
+    font-size: 20px;
+}
+.Prices tr:nth-child(2n) {
+    /* background-color: white; */
+}
+.Prices tr :nth-child(1),
+.Prices tr :nth-child(2) {
+    padding-right: 25px;
+}
+.Prices tr :nth-child(3),
+.Prices tr :nth-child(2) {
+    text-align: right;
+}
+#Prices__swimming {
+    width: 450px;
+}
+#Prices__swimming td {
+    width: 150px;
+    padding: 0;
+}
+#Prices__swimming tr :nth-child(1),
+#Prices__swimming tr :nth-child(2) {
+    padding-right: 0;
+
+}
+#Prices__swimming tr :nth-child(1) {
+    text-align: center;
+}

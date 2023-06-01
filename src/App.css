@@ -1,0 +1,16 @@
+#root {
+    background-color: #252226;
+}
+#App {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 30px; /* the place for the Footer */
+}
+* div {
+    font-family: cinzel;
+    color: white;
+}
+span {
+    font-weight: 1000;
+    color: hsl(41, 84%, 46%);
+}
