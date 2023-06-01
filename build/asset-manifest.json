@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c913a79.css",
+    "main.js": "/static/js/main.6f8d0f2a.js",
+    "static/media/cake.mp4": "/static/media/cake.2e8541afca57fb8ed729.mp4",
+    "static/media/cinzel.regular.ttf": "/static/media/cinzel.regular.df2966c125b0b82cc089.ttf",
+    "index.html": "/index.html",
+    "main.3c913a79.css.map": "/static/css/main.3c913a79.css.map",
+    "main.6f8d0f2a.js.map": "/static/js/main.6f8d0f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c913a79.css",
+    "static/js/main.6f8d0f2a.js"
+  ]
+}
